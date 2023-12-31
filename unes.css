@@ -1,0 +1,16 @@
+html,body{
+    max-width: 980px;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.navegacao{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.foto-capa img{
+    margin-top: 15px;
+    width: 980px;
+}
+
